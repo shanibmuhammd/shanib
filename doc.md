@@ -7,4 +7,5 @@
 # day-2 tinkercard program 2
 ## [click here](https://www.tinkercad.com/things/7pk1nxnL2VO-swanky-curcan-duup)
 ![exp 2](https://github.com/shanibmuhammd/shanib/blob/main/img/tinkercard2.png)
-
+# day-3 tinkercard program 3
+![exp 3](
