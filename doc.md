@@ -29,5 +29,7 @@
 ## 4 LED BLINKING USING ARDUINO
 ## [CLICK HERE](https://www.tinkercad.com/things/gKvlSItvV8y-neat-sango/editel)
 ![EXP 5](https://github.com/shanibmuhammd/shanib/blob/main/img/DANSING%20LED.png)
+## SCHIMATTIC DIAGRAM
 ![EXP 5-1](https://github.com/shanibmuhammd/shanib/blob/main/img/DANSING%20LED-1.png)
+## COMPONENT DIAGRAM
 ![EXP 5-2](https://github.com/shanibmuhammd/shanib/blob/main/img/DANSING%20LED-2.png)
