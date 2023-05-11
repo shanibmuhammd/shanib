@@ -15,4 +15,7 @@
 ![exp 3-2](img/tinkercard3-3.png)
 ## blinking led using adrino
 ![using adrino picture](img/adrino1.png)
-
+## schimattic diagram
+![adrino-2](
+## components required
+![adrino-3](
