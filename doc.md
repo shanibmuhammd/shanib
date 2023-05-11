@@ -16,6 +16,6 @@
 ## blinking led using adrino
 ![using adrino picture](img/adrino1.png)
 ## schimattic diagram
-![adrino-2](
+![adrino-2](img/adrino-2.png)
 ## components required
 ![adrino-3](
