@@ -19,3 +19,10 @@
 ![adrino-2](img/adrino-2.png)
 ## components required
 ![adrino-3](img/adrino-3.png)
+## 2 BLINKING LED USING ARDUINO
+## [CLICK HERE](
+![EXP-4]
+## SCHIMATIC DIAGRAM
+[EXP 4-1](
+## COMPONENTS REQUIRED
+[EXP 4-2](
