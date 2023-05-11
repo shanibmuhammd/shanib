@@ -18,4 +18,4 @@
 ## schimattic diagram
 ![adrino-2](img/adrino-2.png)
 ## components required
-![adrino-3](
+![adrino-3](img/adrino-3.png)
