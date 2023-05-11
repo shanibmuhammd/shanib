@@ -10,5 +10,5 @@
 # day-3 tinkercard program 3
 ![exp 3](img/tinkercard3.png)
 ![exp 3-1](img/tinkercard3-2.png)
-![exp 3-2](
+![exp 3-2](img/tinkercard3-3.png)
 
