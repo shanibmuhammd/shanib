@@ -21,8 +21,8 @@
 ![adrino-3](img/adrino-3.png)
 ## 2 BLINKING LED USING ARDUINO
 ## [CLICK HERE](https://www.tinkercad.com/things/3pxGYP0CHWx-sizzling-fyyran-gaaris)
-![exp 4](img/2 LED BLINKING.png)
+![exp 4](https://github.com/shanibmuhammd/shanib/blob/main/img/2%20LED%20BLINKING.png)
 ## SCHIMATIC DIAGRAM
-![exp 4-1](img/2 LED BLINKING-1.png)
+![exp 4-1](https://github.com/shanibmuhammd/shanib/blob/main/img/2%20LED%20BLINKING-1.png)
 ## COMPONENTS REQUIRED
-![exp 4-2](img/2 LED BLINKING-2.png)
+![exp 4-2](https://github.com/shanibmuhammd/shanib/blob/main/img/2%20LED%20BLINKING-2.png)
