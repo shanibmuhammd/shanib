@@ -14,5 +14,5 @@
 ## components required
 ![exp 3-2](img/tinkercard3-3.png)
 ## blinking led using adrino
-![using adrino picture](
+![using adrino picture](img/adrino1.png)
 
