@@ -9,5 +9,6 @@
 ![exp 2](https://github.com/shanibmuhammd/shanib/blob/main/img/tinkercard2.png)
 # day-3 tinkercard program 3
 ![exp 3](img/tinkercard3.png)
-![exp 3-1](
+![exp 3-1](img/tinkercard3-2.png)
+![exp 3-2](
 
