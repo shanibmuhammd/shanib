@@ -26,3 +26,8 @@
 ![exp 4-1](https://github.com/shanibmuhammd/shanib/blob/main/img/2%20LED%20BLINKING-1.png)
 ## COMPONENTS REQUIRED
 ![exp 4-2](https://github.com/shanibmuhammd/shanib/blob/main/img/2%20LED%20BLINKING-2.png)
+## 4 LED BLINKING USING ARDUINO
+## [CLICK HERE](
+![EXP 5](
+![EXP 5-1](
+![EXP 5-2](
