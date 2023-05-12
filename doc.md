@@ -33,3 +33,10 @@
 ![EXP 5-1](https://github.com/shanibmuhammd/shanib/blob/main/img/DANSING%20LED-1.png)
 ## COMPONENT DIAGRAM
 ![EXP 5-2](https://github.com/shanibmuhammd/shanib/blob/main/img/DANSING%20LED-2.png)
+## 7 segment display
+## [click here](
+![exp 6](
+## schimattic diagram
+![exp 6-1](
+## component required
+![exp 6-2](
