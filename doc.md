@@ -16,7 +16,7 @@
 ![photo](https://github.com/shanibmuhammd/shanib/blob/main/img/pic.png)
 # 10 days internship at jyothi engineering college
 ## day-2 
-#TINKERCARD PROGRAM 1:
+# TINKERCARD PROGRAM 1:
 ## [click here](https://www.tinkercad.com/things/bD37qElXLOw-smashing-jaban)
 ![exp 1](https://github.com/shanibmuhammd/shanib/blob/main/img/tinkercard1.png)
 ## TINKERCARD PROGRAM 2:
