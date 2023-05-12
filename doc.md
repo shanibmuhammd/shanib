@@ -17,7 +17,7 @@
 
 
 # 10 DAYS INTERSHIP AT JYOTHI ENGINEERING
-### *day-2* 
+##### *DAY-2* 
 ## *TINKERCARD PROGRAM 1:*
 ##### [CLICK HERE](https://www.tinkercad.com/things/bD37qElXLOw-smashing-jaban)
 ![exp 1](https://github.com/shanibmuhammd/shanib/blob/main/img/tinkercard1.png)
@@ -25,7 +25,7 @@
 ##### [CLICK HERE](https://www.tinkercad.com/things/7pk1nxnL2VO-swanky-curcan-duup)
 ![exp 2](https://github.com/shanibmuhammd/shanib/blob/main/img/tinkercard2.png)
 ## *TINKERCARD PROGRAM 3:*
-### *using and gate progarm :*
+### *USING AND GATE PROGRAM:*
 ##### [CLICK HERE](https://www.tinkercad.com/things/0UmUQrjP1sD-spectacular-jaagub/editel)
 ![exp 3](img/tinkercard3.png)
 ## *SCHIMETIC PROGRAM:*
