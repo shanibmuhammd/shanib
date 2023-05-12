@@ -19,10 +19,10 @@
 # 10 DAYS INTERSHIP AT JYOTHI ENGINEERING
 ### *day-2* 
 ## *TINKERCARD PROGRAM 1:*
-##### [click here](https://www.tinkercad.com/things/bD37qElXLOw-smashing-jaban)
+##### [CLICK HERE](https://www.tinkercad.com/things/bD37qElXLOw-smashing-jaban)
 ![exp 1](https://github.com/shanibmuhammd/shanib/blob/main/img/tinkercard1.png)
 ## *TINKERCARD PROGRAM 2:*
-##### [click here](https://www.tinkercad.com/things/7pk1nxnL2VO-swanky-curcan-duup)
+##### [CLICK HERE](https://www.tinkercad.com/things/7pk1nxnL2VO-swanky-curcan-duup)
 ![exp 2](https://github.com/shanibmuhammd/shanib/blob/main/img/tinkercard2.png)
 ## *TINKERCARD PROGRAM 3:*
 ### *using and gate progarm :*
@@ -35,9 +35,9 @@
 
 # *BLINKING LED USING ADRINO:*
 ![using adrino picture](img/adrino1.png)
-### *schimattic diagram:*
+### *SCHIMATIC DIAGRAM:*
 ![adrino-2](img/adrino-2.png)
-### *components required:*
+### *COMPONENTS REQUIRED:*
 ![adrino-3](img/adrino-3.png)
 
 # *2 BLINKING LED USING ARDUINO:*
@@ -56,10 +56,10 @@
 ### *COMPONENT DIAGRAM:*
 ![EXP 5-2](https://github.com/shanibmuhammd/shanib/blob/main/img/DANSING%20LED-2.png)
 
-# *7 segment display:*
-##### [click here](https://www.tinkercad.com/things/fwHmBqfALPk-daring-kasi/editel)
+# *7 SEGMENT DISPLAY:*
+##### [CLICK HERE](https://www.tinkercad.com/things/fwHmBqfALPk-daring-kasi/editel)
 ![exp 6](https://github.com/shanibmuhammd/shanib/blob/main/img/7segment.png)
-### *schimattic diagram:*
+### *SCHIMATTIC DIAGRAM:*
 ![exp 6-1](https://github.com/shanibmuhammd/shanib/blob/main/img/7%20segment-1.png)
-### *component required:*
+### *COMPONENT DIAGRAM:*
 ![exp 6-2](https://github.com/shanibmuhammd/shanib/blob/main/img/7%20segment-2.png)
