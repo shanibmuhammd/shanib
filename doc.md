@@ -1,3 +1,19 @@
+## 10 days internship
+**this is bold**
+>shanib
+'muhammed shanib'
+```
+
+ #include<iostream.h>
+ 
+ int main()
+ {
+ printf("hello");
+ }
+ ```
+[ameeshilliasmv](https://www.github.com/ameeshilliasmv)
+
+![photo](https://github.com/shanibmuhammd/shan/blob/main/img/IMG_20221110_213525_816.jpg)
 # 10 days internship at jyothi engineering college
 # day-2 tinkercard program 1:
 ## [click here](https://www.tinkercad.com/things/bD37qElXLOw-smashing-jaban)
