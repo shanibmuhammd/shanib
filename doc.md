@@ -35,7 +35,7 @@
 ![EXP 5-2](https://github.com/shanibmuhammd/shanib/blob/main/img/DANSING%20LED-2.png)
 ## 7 segment display
 ## [click here](
-![exp 6](https://github.com/shanibmuhammd/shanib/blob/main/img/7%20segment.png)
+![exp 6](https://github.com/shanibmuhammd/shanib/blob/main/img/7segment.png)
 ## schimattic diagram
 ![exp 6-1](https://github.com/shanibmuhammd/shanib/blob/main/img/7%20segment-1.png)
 ## component required
