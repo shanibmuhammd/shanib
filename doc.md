@@ -11,7 +11,7 @@
  printf("hello");
  }
  ```
-## [ameeshilliasmv](https://www.github.com/ameeshilliasmv)
+### [ameeshilliasmv](https://www.github.com/ameeshilliasmv)
 
 ![photo](https://github.com/shanibmuhammd/shanib/blob/main/img/pic.png)
 # 10 days internship at jyothi engineering college
