@@ -63,3 +63,13 @@
 ![exp 6-1](https://github.com/shanibmuhammd/shanib/blob/main/img/7%20segment-1.png)
 ### *COMPONENT DIAGRAM:*
 ![exp 6-2](https://github.com/shanibmuhammd/shanib/blob/main/img/7%20segment-2.png)
+
+### day-5
+# *POTENTIO METER*
+##### [CLICK HERE](
+![exp 7](
+### SCHIMATTIC DIAGRAM:
+![exp 7-1]
+### COMPONENT DIAGARAM:
+![EXP 7-2](
+
