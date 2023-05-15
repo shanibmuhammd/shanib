@@ -67,7 +67,7 @@
 ### day-5
 # *POTENTIO METER*
 ##### [CLICK HERE](https://www.tinkercad.com/things/fHo2dfdAHc5-surprising-turing-rottis/editel)
-![exp 7](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.png)
+![exp 7](https://www.tinkercad.com/things/fHo2dfdAHc5-surprising-turing-rottis/editel)
 ### *SCHIMATTIC DIAGRAM:*
 ![exp 7-1](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.1.png)
 ### *COMPONENT DIAGARAM:*
