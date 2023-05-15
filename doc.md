@@ -67,9 +67,9 @@
 ### day-5
 # *POTENTIO METER*
 ##### [CLICK HERE](
-![exp 7](
+![exp 7](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.png)
 ### SCHIMATTIC DIAGRAM:
-![exp 7-1]
+![exp 7-1](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.1.png)
 ### COMPONENT DIAGARAM:
-![EXP 7-2](
+![EXP 7-2](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.2.png)
 
