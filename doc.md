@@ -64,12 +64,16 @@
 ### *COMPONENT DIAGRAM:*
 ![exp 6-2](https://github.com/shanibmuhammd/shanib/blob/main/img/7%20segment-2.png)
 
+### DAY-4
+# BLOCKLY PROGRAM
+![EXP 1](https://github.com/shanibmuhammd/shanib/blob/main/img/day4%20blockly2.png)
+
 ### day-5
 # *POTENTIO METER*
 ##### [CLICK HERE](https://www.tinkercad.com/things/fHo2dfdAHc5-surprising-turing-rottis/editel)
-![exp 7](https://github.com/shanibmuhammd/shanib/blob/main/img/DAY5.0.png)
+![exp 1](https://github.com/shanibmuhammd/shanib/blob/main/img/DAY5.0.png)
 ### *SCHIMATTIC DIAGRAM:*
-![exp 7-1](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.1.png)
+![exp 1-1](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.1.png)
 ### *COMPONENT DIAGARAM:*
-![EXP 7-2](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.2.png)
+![EXP 1-2](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.2.png)
 
