@@ -84,6 +84,7 @@
 ### COMPONENT DIAGRAM
 ![EXP 2-2](https://github.com/shanibmuhammd/shanib/blob/main/img/DISPLAY-2.png)
 ## CODE:
+```
 // C++ code
 //
 void setup()
@@ -182,7 +183,7 @@ void loop()
   digitalWrite(8, LOW);
   delay(2000); // Wait for 1000 millisecond(s)
 }
-
+```
 ### DAY-6
 
 
