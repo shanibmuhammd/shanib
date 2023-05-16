@@ -67,6 +67,32 @@
 ### DAY-4
 # BLOCKLY PROGRAM
 ![EXP 1](https://github.com/shanibmuhammd/shanib/blob/main/img/day%204.png)
+## CODE:
+```
+var num_1, num_2, operator;
+
+// Describe this function...
+function packet() {
+  for (var count = 0; count < 10; count++) {
+    num_1 = Number(window.prompt('enter first number'));
+    num_2 = window.prompt('enter the second number');
+    operator = window.prompt('enter the operator');
+    if (operator == '+') {
+      window.alert(num_1 + num_2);
+    } else if (operator == '-') {
+      window.alert(num_1 - num_2);
+    } else if (operator == '*') {
+      window.alert(num_1 * num_2);
+    } else if (operator == '/') {
+      window.alert(num_1 / num_2);
+    }
+  }
+}
+
+
+packet();
+```
+
 
 ### day-5
 # *POTENTIO METER*
