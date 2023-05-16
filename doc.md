@@ -76,4 +76,10 @@
 ![exp 1-1](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.1.png)
 ### *COMPONENT DIAGARAM:*
 ![EXP 1-2](https://github.com/shanibmuhammd/shanib/blob/main/img/day-5.2.png)
+# DISPLAY 7 SEGMENT 0-9
+##### [CLICK HERE](
+![EXP 2](
+### SCHIMATTIC DIAGRAM:
+![EXP 2-1]
+### COMPONENT DIAGRAM
 
