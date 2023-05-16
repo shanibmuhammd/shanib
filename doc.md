@@ -66,7 +66,7 @@
 
 ### DAY-4
 # BLOCKLY PROGRAM
-![EXP 1](https://github.com/shanibmuhammd/shanib/blob/main/img/day4%20blockly2.png)
+![EXP 1]()
 
 ### day-5
 # *POTENTIO METER*
