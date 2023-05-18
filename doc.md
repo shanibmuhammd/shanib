@@ -244,10 +244,10 @@ void loop()
 ### day 8
 > 0-9 DISPLAY USING POTENTION METER AND 7 SEGMENT
 ## [CLICK HERE](
-![IMG](
+![IMG](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208.png)
 ## SCHIMATTIC DIAGRAM
-![IMG 1-1](
+![IMG 1-1](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208-1.png)
 ## COMPONENT DIAGRAM
-![IMG](
+![IMG](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208-2.png)
 
 
