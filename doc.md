@@ -96,7 +96,7 @@ function packet() {
 packet();
 ```
 **AI & ML** 
-> STM 32 NUCLEO DEVELOPMENT BOARD
+### STM 32 NUCLEO DEVELOPMENT BOARD
  
 ![IMAGE](https://github.com/shanibmuhammd/shanib/blob/main/img/Untitled.jpeg)
 1. the board is programmeble
@@ -119,7 +119,7 @@ packet();
 ![EXP 2-1](https://github.com/shanibmuhammd/shanib/blob/main/img/DISPLAY-1.png)
 ### COMPONENT DIAGRAM
 ![EXP 2-2](https://github.com/shanibmuhammd/shanib/blob/main/img/DISPLAY-2.png)
-> Introducing drones by NAVANEETH 3rd year student of robotics
+### Introducing drones by NAVANEETH 3rd year student of robotics
 1. Introducing Drones
 2. explained about drones parts
 3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
@@ -228,7 +228,7 @@ void loop()
 }
 ```
 > DAY-6
- > Basics of 3D printing conducted by 3rd year student robotics
+ ## Basics of 3D printing conducted by 3rd year student robotics
 1. first introduced of the 3d printing
 2. creating  models by the tinkercad 3D modeling
 3. start with basic shapes
@@ -239,7 +239,7 @@ void loop()
 
 
 > Day-7
-> Introduced the yaskawa arm robot
+## Introduced the yaskawa arm robot
 1. The introduction of yaskawa AR1440 
 ![image](https://github.com/shanibmuhammd/shanib/blob/main/img/hhh.jpeg)
 > Then introduced about the EV (electric vehicle)
