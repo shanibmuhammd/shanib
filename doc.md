@@ -25,6 +25,8 @@
 ## *TINKERCARD PROGRAM 2:*
 ##### [CLICK HERE](https://www.tinkercad.com/things/7pk1nxnL2VO-swanky-curcan-duup)
 ![exp 2](https://github.com/shanibmuhammd/shanib/blob/main/img/tinkercard2.png)
+
+> DAY 3
 ## *TINKERCARD PROGRAM 3:*
 ### *USING AND GATE PROGRAM:*
 ##### [CLICK HERE](https://www.tinkercad.com/things/0UmUQrjP1sD-spectacular-jaagub/editel)
