@@ -235,7 +235,7 @@ void loop()
 7. also printed a design (duration 19 min)
 
 
-# Day-7
+### Day-7
 > Introduced the yaskawa arm robot
 1. The introduction of yaskawa AR1440 
 ![image](https://github.com/shanibmuhammd/shanib/blob/main/img/hhh.jpeg)
