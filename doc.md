@@ -241,7 +241,7 @@ void loop()
 ![image](https://github.com/shanibmuhammd/shanib/blob/main/img/hhh.jpeg)
 > Then introduced about the EV (electric vehicle)
 
-### day 8
+## DAY 8
 > 0-9 DISPLAY USING POTENTION METER AND 7 SEGMENT
 ## [CLICK HERE](
 ![IMG](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208.png)
