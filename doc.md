@@ -219,10 +219,12 @@ void loop()
 5. created a base and top cover for the flower bottel by using [Tinkercad](https://www.tinkercad.com/)
 6. then introduced the 3D printer 
 7. also printed a design (duration 19 min)
+
+
 # Day-7
 > Introduced the yaskawa arm robot
 1. The introduction of yaskawa AR1440 
-![image]()
+![image](https://github.com/shanibmuhammd/shanib/blob/main/img/hhh.jpeg)
 > Then introduced about the EV (electric vehicle)
 
 
