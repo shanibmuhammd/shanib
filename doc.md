@@ -116,6 +116,11 @@ packet();
 ![EXP 2-1](https://github.com/shanibmuhammd/shanib/blob/main/img/DISPLAY-1.png)
 ### COMPONENT DIAGRAM
 ![EXP 2-2](https://github.com/shanibmuhammd/shanib/blob/main/img/DISPLAY-2.png)
+> Introducing drones by NAVANEETH 3rd year student of robotics
+1. Introducing Drones
+2. explained about drones parts
+3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
+4. To config the drones with software named as mission planner  ![image](
 ## CODE:
 ```
 // C++ code
