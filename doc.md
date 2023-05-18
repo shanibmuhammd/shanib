@@ -247,6 +247,9 @@ void loop()
 > DAY 8
 # 0-9 DISPLAY USING POTENTION METER AND 7 SEGMENT
 ## [CLICK HERE](https://www.tinkercad.com/things/kAFvFbP8PZz-0-9-display-using-pot/editel)
+> Arduino 
+1. Programming the arduino for the 7 segment display with pot 
+2. adjusting the speed of the display by varing the pot 
 ![IMG](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208.png)
 ## SCHIMATTIC DIAGRAM
 ![IMG 1-1](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208-1.png)
@@ -357,4 +360,4 @@ void loop()
   digitalWrite(8, LOW);
   delay(potValue); // Wait for 1000 millisecond(s)
 }
-
+```
