@@ -242,7 +242,7 @@ void loop()
 > Then introduced about the EV (electric vehicle)
 
 ## DAY 8
-> 0-9 DISPLAY USING POTENTION METER AND 7 SEGMENT
+# 0-9 DISPLAY USING POTENTION METER AND 7 SEGMENT
 ## [CLICK HERE](https://www.tinkercad.com/things/kAFvFbP8PZz-0-9-display-using-pot/editel)
 ![IMG](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208.png)
 ## SCHIMATTIC DIAGRAM
