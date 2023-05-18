@@ -1,3 +1,4 @@
+> DAY 1
 # 10 DAYS INTERNSHIP
 **THIS IS BOLD**
 >shanib
@@ -17,7 +18,7 @@
 
 
 # 10 DAYS INTERSHIP AT JYOTHI ENGINEERING
-##### *DAY-2* 
+> *DAY-2* 
 ## *TINKERCARD PROGRAM 1:*
 ##### [CLICK HERE](https://www.tinkercad.com/things/bD37qElXLOw-smashing-jaban)
 ![exp 1](https://github.com/shanibmuhammd/shanib/blob/main/img/tinkercard1.png)
@@ -64,7 +65,7 @@
 ### *COMPONENT DIAGRAM:*
 ![exp 6-2](https://github.com/shanibmuhammd/shanib/blob/main/img/7%20segment-2.png)
 
-### DAY-4
+> DAY-4
 # BLOCKLY PROGRAM
 ![EXP 1](https://github.com/shanibmuhammd/shanib/blob/main/img/day%204.png)
 ## CODE:
@@ -101,7 +102,7 @@ packet();
 3. it can build a sound detecting device by using microphone sensor 
 
 
-### day-5
+> day-5
 # *POTENTIO METER*
 ##### [CLICK HERE](https://www.tinkercad.com/things/fHo2dfdAHc5-surprising-turing-rottis/editel)
 ![exp 1](https://github.com/shanibmuhammd/shanib/blob/main/img/DAY5.0.png)
@@ -224,7 +225,7 @@ void loop()
   delay(2000); // Wait for 1000 millisecond(s)
 }
 ```
-### DAY-6
+> DAY-6
  > Basics of 3D printing conducted by 3rd year student robotics
 1. first introduced of the 3d printing
 2. creating  models by the tinkercad 3D modeling
@@ -235,13 +236,13 @@ void loop()
 7. also printed a design (duration 19 min)
 
 
-### Day-7
+> Day-7
 > Introduced the yaskawa arm robot
 1. The introduction of yaskawa AR1440 
 ![image](https://github.com/shanibmuhammd/shanib/blob/main/img/hhh.jpeg)
 > Then introduced about the EV (electric vehicle)
 
-## DAY 8
+> DAY 8
 # 0-9 DISPLAY USING POTENTION METER AND 7 SEGMENT
 ## [CLICK HERE](https://www.tinkercad.com/things/kAFvFbP8PZz-0-9-display-using-pot/editel)
 ![IMG](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208.png)
