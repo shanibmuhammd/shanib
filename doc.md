@@ -160,7 +160,7 @@ void loop()
   delay(2000); // Wait for 1000 millisecond(s)
   digitalWrite(2, LOW);
   digitalWrite(3, LOW);
-  digitalWrite(4, HIGH);
+  digitalWrite(4, HIGH);https://www.tinkercad.com/things/kAFvFbP8PZz-0-9-display-using-pot/editel
   digitalWrite(5, LOW);
   digitalWrite(6, LOW);
   digitalWrite(7, HIGH);
@@ -243,11 +243,13 @@ void loop()
 
 ## DAY 8
 > 0-9 DISPLAY USING POTENTION METER AND 7 SEGMENT
-## [CLICK HERE](
+## [CLICK HERE](https://www.tinkercad.com/things/kAFvFbP8PZz-0-9-display-using-pot/editel)
 ![IMG](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208.png)
 ## SCHIMATTIC DIAGRAM
 ![IMG 1-1](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208-1.png)
 ## COMPONENT DIAGRAM
 ![IMG](https://github.com/shanibmuhammd/shanib/blob/main/img/day%208-2.png)
+## CODE:
+```
 
 
