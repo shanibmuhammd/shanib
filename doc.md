@@ -415,13 +415,12 @@ void loop() {
 ```
 ## EXP 2
 ### SIGNAL LIGHT USING PUSHBUTTON AND ARDUINO
-#### [CLICK HERE TO VIEW IN SITE]()
 #### CIRCUIT DIAGRAM
-![img]()
+![img](https://github.com/shanibmuhammd/shanib/blob/main/img/day9-1.png)
 #### SCHEMATIC DIAGRAM 
-![img])
+![img](https://github.com/shanibmuhammd/shanib/blob/main/img/day9-2.png)
 #### COMPONENTS REQUIRED
-![img]()
+![img](https://github.com/shanibmuhammd/shanib/blob/main/img/day9-3.png)
 #### CODE
 ```
 const int buttonPin1 = 2; // the number of the pushbutton pin
@@ -442,7 +441,7 @@ void setup() {
   pinMode(yellowledPin, OUTPUT);
   pinMode(buttonPin2, INPUT);
   pinMode(redledPin, OUTPUT);
-  pinMode(buttonPin3, INPUT);
+  pinMode(buttonPin3, INPUT);https://github.com/shanibmuhammd/shanib/blob/main/img/day9-1.png
 }
 
 void loop() {
