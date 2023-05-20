@@ -344,7 +344,7 @@ void loop()
   digitalWrite(3, HIGH);
   digitalWrite(4, LOW);
   digitalWrite(5, LOW);
-  digitalWrite(6, LOW);
+  digitalWrite(6, LOW);https://github.com/shanibmuhammd/shanib/blob/main/img/day9-13.png
   digitalWrite(7, LOW);
   digitalWrite(8, LOW);
   delay(potValue); // Wait for 1000 millisecond(s)
@@ -378,13 +378,12 @@ void loop()
 > Arduino interface LCD
 ## EXP 1
 ### BLINKING LED USING PUSHBUTTON AND ARDUINO
-#### [CLICK HERE TO VIEW IN SITE]()
 #### CICUIT DIAGRAM
-![img]()
+![img](https://github.com/shanibmuhammd/shanib/blob/main/img/day9-11.png)
 #### SCHEMATIC DIAGRAM
-![img])
+![img](https://github.com/shanibmuhammd/shanib/blob/main/img/day9-12.png)
 #### COMPONENTS REQUIRED
-![img]()
+![img](https://github.com/shanibmuhammd/shanib/blob/main/img/day9-13.png)
 #### CODE
 ```
 const int buttonPin = 2;     // the number of the pushbutton pin
