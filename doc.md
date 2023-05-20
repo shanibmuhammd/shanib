@@ -111,7 +111,7 @@ packet();
 **AI & ML** 
 > STM 32 NUCLEO DEVELOPMENT BOARD
  
-![IMAGE]()
+![IMAGE](https://github.com/shanibmuhammd/shanib/blob/main/img/stm32.jpg)
 1. The board is programmeble
 2. Can program th board by nucleo software
 3. It can build a sound detecting device by using microphone sensor 
