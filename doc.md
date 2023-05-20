@@ -16,6 +16,11 @@
 
 ![photo](https://github.com/shanibmuhammd/shanib/blob/main/img/pic.png)
 
+## PROFILE
+### NAME: MUHAMMED SHANIB EV
+### ADDRESS: ENGEERI VALAPPIL HOUSE
+### PLACE: KARUKAPUTHUR
+
 
 # 10 DAYS INTERSHIP AT JYOTHI ENGINEERING
 > *DAY-2* 
