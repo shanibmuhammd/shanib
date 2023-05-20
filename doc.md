@@ -376,4 +376,98 @@ void loop()
 ```
 # Day-9
 > Arduino interface LCD
+## EXP 1
+### BLINKING LED USING PUSHBUTTON AND ARDUINO
+#### [CLICK HERE TO VIEW IN SITE]()
+#### CICUIT DIAGRAM
+![img]()
+#### SCHEMATIC DIAGRAM
+![img])
+#### COMPONENTS REQUIRED
+![img]()
+#### CODE
+```
+const int buttonPin = 2;     // the number of the pushbutton pin
+const int ledPin =  13;      // the number of the LED pin
+
+// variables will change:
+int buttonState = 0;         // variable for reading the pushbutton status
+
+void setup() {
+  // initialize the LED pin as an output:
+  pinMode(ledPin, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin, INPUT);
+}
+
+void loop() {
+  // read the state of the pushbutton value:
+  buttonState = digitalRead(buttonPin);
+
+  // check if the pushbutton is pressed. If it is, the buttonState is HIGH:
+  if (buttonState == HIGH) {
+    // turn LED on:
+    digitalWrite(ledPin, HIGH);
+  } else {
+    // turn LED off:
+    digitalWrite(ledPin, LOW);
+  }
+}
+```
+## EXP 2
+### SIGNAL LIGHT USING PUSHBUTTON AND ARDUINO
+#### [CLICK HERE TO VIEW IN SITE]()
+#### CIRCUIT DIAGRAM
+![img]()
+#### SCHEMATIC DIAGRAM 
+![img])
+#### COMPONENTS REQUIRED
+![img]()
+#### CODE
+```
+const int buttonPin1 = 2; // the number of the pushbutton pin
+const int buttonPin2 = 4;
+const int buttonPin3 = 7;
+const int greenledPin =  13;      // the number of the LED pin
+const int yellowledPin =  12;
+const int redledPin =  8;
+
+// variables will change:
+int buttonState1 = 0;         // variable for reading the pushbutton status
+int buttonState2 = 0; 
+int buttonState3 = 0; 
+
+void setup() {
+  pinMode(greenledPin, OUTPUT);
+  pinMode(buttonPin1, INPUT);
+  pinMode(yellowledPin, OUTPUT);
+  pinMode(buttonPin2, INPUT);
+  pinMode(redledPin, OUTPUT);
+  pinMode(buttonPin3, INPUT);
+}
+
+void loop() {
+  buttonState3 = digitalRead(buttonPin1);
+
+  if (buttonState3 == HIGH) {
+    digitalWrite(greenledPin, HIGH);
+  } else {
+  digitalWrite(greenledPin, LOW);
+  }
+  buttonState3 = digitalRead(buttonPin2);
+
+  if (buttonState3 == HIGH) {
+    digitalWrite(yellowledPin, HIGH);
+  } else {
+  digitalWrite(yellowledPin, LOW);
+  }
+  buttonState3 = digitalRead(buttonPin3);
+
+  if (buttonState3 == HIGH) {
+    digitalWrite(redledPin, HIGH);
+  } else {
+  digitalWrite(redledPin, LOW);
+  }
+}
+```
 
