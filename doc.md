@@ -108,6 +108,14 @@ packet();
 2. Can program th board by nucleo software
 3. it can build a sound detecting device by using microphone sensor 
 
+**AI & ML** 
+> STM 32 NUCLEO DEVELOPMENT BOARD
+ 
+![IMAGE]()
+1. The board is programmeble
+2. Can program th board by nucleo software
+3. It can build a sound detecting device by using microphone sensor 
+
 
 > day-5
 # *POTENTIO METER*
