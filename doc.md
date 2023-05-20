@@ -379,7 +379,7 @@ void loop()
 ## EXP 1
 ### BLINKING LED USING PUSHBUTTON AND ARDUINO
 #### [click here](https://www.tinkercad.com/things/4hLqAviqhxI-blinking-led-using-pushbutton/editel)
-#### CICUIT DIAGRAM
+#### CIRCUIT DIAGRAM
 ![img](https://github.com/shanibmuhammd/shanib/blob/main/img/day9-11.png)
 #### SCHEMATIC DIAGRAM
 ![img](https://github.com/shanibmuhammd/shanib/blob/main/img/day9-12.png)
